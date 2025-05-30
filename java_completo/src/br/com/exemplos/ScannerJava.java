@@ -18,8 +18,8 @@ public class ScannerJava {
 			String x;
 			
 			System.out.printf("Digite um numero: ");
-			
 			y = sc.nextInt();
+			
 			System.out.printf("\nNumero digitado: " + y);
 			
 			//sc.next() = pause program until data entry
