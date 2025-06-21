@@ -24,6 +24,7 @@ public class SplitString {
 		System.out.println(vect[3]);
 		
 		
+		
 		sc.close();
 
 	}
